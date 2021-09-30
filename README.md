@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonRPdoe
 - 👀 I’m interested in start my carrer as a programer and grow up
 - 🌱 I’m currently learning HTML5, CSS3, javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me https://web.digitalinnovation.one/users/ruangnr?tab=achievements
 
 <!---
