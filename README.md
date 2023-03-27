@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonRPdoe
 - 👀 I’m interested in start my carrer as a programer and grow up
-- 🌱 I’m currently learning HTML5, CSS3, javascript
+- 🌱 I’m currently learning PHP, MySql, java & software analysis and development
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me https://www.linkedin.com/in/ruan-pereira-651523237/
 
