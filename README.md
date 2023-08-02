@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jhonRPdoe
-- 👀 I’m interested in start my carrer as a programer and grow up
-- 🌱 I’m currently learning PHP, MySql, java & software analysis and development
+- 👋 Hi, I’m Ruan
+- 🇵​​​​​🇭​​​​​🇵​​​​​ I’m PHP programer
+- 👀 I’m a interested in grow up in my carrer as a programer and learn many other things
+- 🌱 I’m currently learning java, PostGreSql, java & software analysis and development SENAC
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me https://www.linkedin.com/in/ruan-pereira-651523237/
 
